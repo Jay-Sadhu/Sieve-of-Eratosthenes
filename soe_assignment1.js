@@ -1,8 +1,7 @@
 /* Question - Take this number 345456. Each pair of consecutive digits of 
               345456 has a difference of one. Let's call these numbers 
-			  one-digit-difference numbers. Or ODD numbers.
-			  
-			  How many such numbers are prime between 0 and 10 million.
+	      one-digit-difference numbers. Or ODD numbers. How many such 
+              numbers are prime between 0 and 10 million.
 */
 
 // Answer :
